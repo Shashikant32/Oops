@@ -13,9 +13,19 @@ public class Main {
 //        c1.start();
 //
 //        System.out.println("hello world");
-        FaceBookAccount fb = new FaceBookAccount();
-        repairCamera(new SamsungCamera());
+//        FaceBookAccount fb = new FaceBookAccount();
+//        repairCamera(new SamsungCamera());
 
+        // handil the Execption try and catch or main throw Execption
+
+//          throw new ConnectionFaild("hello");
+//          try
+//          {
+//              throw new NullPointerException("hello");
+//          }catch(ConnectionFaild e)
+//          {
+//              System.out.println("hey");
+//          }
 
     }
 }
